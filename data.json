@@ -1,0 +1,212 @@
+{
+  "categories": [
+    {
+      "id": "all",
+      "name": "Semua Produk",
+      "icon": "Flame"
+    },
+    {
+      "id": "nugget-karaage",
+      "name": "Nugget & Karaage",
+      "icon": "Package"
+    },
+    {
+      "id": "ayam-ungkep",
+      "name": "Ayam Ungkep & Tradisional",
+      "icon": "Utensils"
+    },
+    {
+      "id": "sosis-bakso",
+      "name": "Sosis & Bakso Ayam",
+      "icon": "Layers"
+    },
+    {
+      "id": "dimsum-snack",
+      "name": "Dimsum & Camilan",
+      "icon": "Sparkles"
+    },
+    {
+      "id": "abon-kering",
+      "name": "Abon & Lauk Kering",
+      "icon": "Bookmark"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Perchick Crispy Chicken Nugget Original",
+      "category": "nugget-karaage",
+      "categoryName": "Nugget & Karaage",
+      "price": 42000,
+      "weight": "500 gr",
+      "stock": 45,
+      "rating": 4.9,
+      "soldCount": 1240,
+      "image": "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&w=800&q=80",
+      "description": "Nugget ayam pilihan dibuat dari 100% daging dada ayam segar berkualitas dengan balutan tepung panir renyah emas. Tekstur renyah di luar, sangat empuk dan juicy di dalam tanpa bahan pengawet sintetis. Cocok untuk sarapan praktis maupun bekal anak sekolah.",
+      "ingredients": [
+        "Daging Dada Ayam Pilihan",
+        "Tepung Roti Panir Premium",
+        "Bumbu Rempah Alami",
+        "Garam",
+        "Minyak Nabati"
+      ],
+      "storage": "Simpan di freezer pada suhu -18°C. Tahan hingga 6 bulan.",
+      "isFeatured": true
+    },
+    {
+      "id": "2",
+      "name": "Perchick Ayam Ungkep Lengkuas Kuning",
+      "category": "ayam-ungkep",
+      "categoryName": "Ayam Ungkep & Tradisional",
+      "price": 68000,
+      "weight": "850 gr (1 Ekor)",
+      "stock": 30,
+      "rating": 5.0,
+      "soldCount": 950,
+      "image": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80",
+      "description": "Ayam ungkep bumbu kuning lengkuas khas Nusantara, dimasak perlahan (slow-cooked) hingga bumbu meresap sempurna sampai ke serat tulang. Disertai serundeng lengkuas gurih melimpah dan sambal korek pedas mantap.",
+      "ingredients": [
+        "1 Ekor Ayam Pejantan Segar",
+        "Lengkuas Parut",
+        "Kunyit",
+        "Ketumbar",
+        "Bawang Merah & Putih",
+        "Serai & Daun Salam"
+      ],
+      "storage": "Simpan beku di freezer tahan hingga 3 bulan, atau kulkas biasa tahan 3 hari.",
+      "isFeatured": true
+    },
+    {
+      "id": "3",
+      "name": "Perchick Sosis Ayam Premium Keju Lumer",
+      "category": "sosis-bakso",
+      "categoryName": "Sosis & Bakso Ayam",
+      "price": 48000,
+      "weight": "400 gr (10 pcs)",
+      "stock": 55,
+      "rating": 4.8,
+      "soldCount": 780,
+      "image": "https://images.unsplash.com/photo-1585325701165-351af916e581?auto=format&fit=crop&w=800&q=80",
+      "description": "Sosis ayam kualitas premium dengan potongan keju cheddar leleh di setiap gigitan. Dibuat dari daging ayam segar cincang halus berpadu bumbu rempah Eropa yang gurih wangi. Selongsong sosis collagen yang renyah dan bisa langsung dimakan.",
+      "ingredients": [
+        "Daging Ayam Pilihan",
+        "Keju Cheddar Leleh",
+        "Minyak Nabati",
+        "Rempah Alami",
+        "Selongsong Kolagen Halal"
+      ],
+      "storage": "Simpan di freezer -18°C.",
+      "isFeatured": true
+    },
+    {
+      "id": "4",
+      "name": "Perchick Bakso Ayam Kenyal Gurih",
+      "category": "sosis-bakso",
+      "categoryName": "Sosis & Bakso Ayam",
+      "price": 38000,
+      "weight": "500 gr (25 butir)",
+      "stock": 40,
+      "rating": 4.7,
+      "soldCount": 620,
+      "image": "https://images.unsplash.com/photo-1569058242253-92a9c755a0ec?auto=format&fit=crop&w=800&q=80",
+      "description": "Bakso ayam dengan tekstur kenyal alami tanpa boraks atau pengenyal berbahaya. Kaya akan serat daging ayam asli dan dilengkapi bumbu kaldu bubuk ayam serta minyak bawang merah goreng aromatik dalam kemasan.",
+      "ingredients": [
+        "Daging Dada & Paha Ayam",
+        "Tepung Tapioka Pilihan",
+        "Putih Telur",
+        "Bawang Putih Goreng",
+        "Garam & Merica"
+      ],
+      "storage": "Simpan beku di freezer tahan hingga 4 bulan.",
+      "isFeatured": false
+    },
+    {
+      "id": "5",
+      "name": "Perchick Dimsum Siomay Ayam Udang",
+      "category": "dimsum-snack",
+      "categoryName": "Dimsum & Camilan",
+      "price": 52000,
+      "weight": "450 gr (15 pcs)",
+      "stock": 35,
+      "rating": 4.9,
+      "soldCount": 1100,
+      "image": "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?auto=format&fit=crop&w=800&q=80",
+      "description": "Siomay dimsum ala restoran bintang lima dengan isian padat cincangan ayam montok dan udang segar. Dibalut kulit tipis lembut dan dilengkapi chili oil pedas khas oriental yang menggugah selera.",
+      "ingredients": [
+        "Fillet Dada Ayam",
+        "Udang Segar",
+        "Kulit Pangsit Khusus",
+        "Minyak Wijen",
+        "Chili Oil Sachet"
+      ],
+      "storage": "Kukus selama 10-12 menit sebelum disantap. Simpan beku di freezer.",
+      "isFeatured": false
+    },
+    {
+      "id": "6",
+      "name": "Perchick Japanese Garlic Chicken Karaage",
+      "category": "nugget-karaage",
+      "categoryName": "Nugget & Karaage",
+      "price": 45000,
+      "weight": "400 gr",
+      "stock": 50,
+      "rating": 4.9,
+      "soldCount": 890,
+      "image": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?auto=format&fit=crop&w=800&q=80",
+      "description": "Potongan paha ayam boneless yang juicy dimarinasi dengan saus shoyu Jepang, jahe segar, dan sari bawang putih pilihan. Dibalut tepung kentang renyah yang garing tahan lama.",
+      "ingredients": [
+        "Paha Ayam Boneless",
+        "Shoyu Halal",
+        "Bawang Putih & Jahe",
+        "Tepung Maizena & Kentang"
+      ],
+      "storage": "Simpan beku di freezer. Goreng saat masih setengah beku pada minyak panas.",
+      "isFeatured": true
+    },
+    {
+      "id": "7",
+      "name": "Perchick Abon Ayam Gurih Renyah Non-MSG",
+      "category": "abon-kering",
+      "categoryName": "Abon & Lauk Kering",
+      "price": 35000,
+      "weight": "200 gr",
+      "stock": 60,
+      "rating": 4.8,
+      "soldCount": 430,
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80",
+      "description": "Abon ayam asli tanpa campuran kelapa, diolah dari serat daging dada ayam kampung berkualitas dengan bumbu rempah alami tanpa tambahan MSG. Cocok untuk teman makan nasi hangat atau taburan bubur.",
+      "ingredients": [
+        "Dada Ayam Kampung",
+        "Gula Merah Aren",
+        "Bawang Merah & Putih",
+        "Ketumbar",
+        "Garam Laut"
+      ],
+      "storage": "Simpan di suhu ruang dalam toples kedap udara. Tahan hingga 8 bulan.",
+      "isFeatured": false
+    },
+    {
+      "id": "8",
+      "name": "Perchick Ayam Bakar Madu Manis Gurih",
+      "category": "ayam-ungkep",
+      "categoryName": "Ayam Ungkep & Tradisional",
+      "price": 72000,
+      "weight": "850 gr (1 Ekor)",
+      "stock": 25,
+      "rating": 4.9,
+      "soldCount": 510,
+      "image": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?auto=format&fit=crop&w=800&q=80",
+      "description": "Ayam bakar ungkep empuk dengan olesan saus madu murni dan karamel rempah tradisional. Tinggal panaskan di atas teflon atau microwave selama 5-7 menit, aroma asap bakaran madu langsung semerbak.",
+      "ingredients": [
+        "1 Ekor Ayam Segar",
+        "Madu Hutan Murni",
+        "Kecap Manis Tradisional",
+        "Bawang Merah & Putih",
+        "Ketumbar Sangrai"
+      ],
+      "storage": "Simpan beku di freezer tahan hingga 3 bulan.",
+      "isFeatured": false
+    }
+  ]
+}
