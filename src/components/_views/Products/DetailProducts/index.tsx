@@ -89,7 +89,7 @@ export default function DetailProductsView({
     const text = encodeURIComponent(
       `Halo Perchick Store! Saya ingin memesan:\n\n*${product.name}*\n• Jumlah: ${quantity} pcs\n• Berat: ${product.weight}\n• Total: ${formatRupiah(totalPrice)}\n\nApakah stok masih tersedia?`
     );
-    window.open(`https://wa.me/6281234567890?text=${text}`, "_blank");
+    window.open(`https://wa.me/6281210714320?text=${text}`, "_blank");
   };
 
   return (

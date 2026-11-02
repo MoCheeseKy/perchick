@@ -27,7 +27,7 @@ export default function Footer() {
               Admin
             </Link>
             <a
-              href="https://wa.me/6281234567890"
+              href="https://wa.me/6281210714320"
               target="_blank"
               rel="noopener noreferrer"
               className="text-orange-600 hover:text-orange-700"
